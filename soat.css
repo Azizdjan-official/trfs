@@ -1,0 +1,30 @@
+.soat
+{
+    border: 5px solid grey;
+    display: flex;
+    flex-direction: row;
+    background: #000;
+    border-radius: 10%;
+    margin: 100px;
+    color: green;
+    align-items: center;
+    width: 50%;
+    justify-content: space-evenly;
+}
+
+.am
+{
+    text-align: center; 
+}
+.vaqt
+{
+    text-align: center;
+    font-size: 5rem;
+    padding: 0rem 2rem; 
+}
+.week, .month, .date
+{
+    display: flex;
+    flex-direction: row;
+    font-size: 0.8rem;
+}

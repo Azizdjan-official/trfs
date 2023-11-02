@@ -1,0 +1,45 @@
+.svetofor
+{
+    width: 200px;
+    border: 1px solid red;
+    background: rgb(46, 46, 46);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.circleRed
+{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 140px;
+    font-weight: 800;
+    font-size: 2rem;
+    background: #000;
+}
+.circleYellow
+{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: #000;
+    text-align: center;
+    line-height: 140px;
+    font-weight: 800;
+    font-size: 1rem;
+}
+.circleGreen
+{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: #000;
+    text-align: center;
+    line-height: 140px;
+    font-weight: 800;
+    font-size: 2rem;
+}
